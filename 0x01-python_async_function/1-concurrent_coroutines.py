@@ -1,9 +1,5 @@
 #!/usr/bin/env python3
-'''
-    Module Task to import wait_random from 
-    the previous python file and write an async routine 
-    called wait_n that takes in 2 int arguments 
-    (in this order): n and max_delay.
+'''Import wait_random from the previous python file and write an async routine
 '''
 import asyncio
 from typing import List
